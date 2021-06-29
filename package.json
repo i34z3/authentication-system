@@ -1,0 +1,25 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "auth-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i34z3/authentication-system.git"
+  },
+  "author": "Guilherme Yoshida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i34z3/authentication-system/issues"
+  },
+  "homepage": "https://github.com/i34z3/authentication-system#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.13.0"
+  }
+}
